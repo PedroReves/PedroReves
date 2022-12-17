@@ -5,9 +5,8 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroReves&layout=compact&langs_count=16&theme=codeSTACKr"/>
 </div>
 <div align="right"> 
-  <div style="display: inline-block">
-    <h2 align="center">Tecnologias que já domino         Tecnologias que quero dominar</h2>
-    <h2 align="left"></h2>
+  <div style="display: flex">
+    <h2 align="left">Tecnologias que quero dominar</h2>
  ##
     <img align="right" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
     <img align="right" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
