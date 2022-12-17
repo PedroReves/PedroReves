@@ -12,7 +12,7 @@
     <img align="left" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
   <div align="right"> 
-  <div style="display: block">
+  <div style="display: inline-block">
     <h1 align="right">Tecnologias que quero dominar</h1>
     <img align="right" height="30" width="40" alt="python-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img align="right" height="30" width="40" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
