@@ -6,8 +6,8 @@
 </div>
 <div align="right"> 
   <div style="display: flex">
-    <h2 align="left">Tecnologias que quero dominar</h2>
-    <h2 align="right">Tecnologias que domino</h2>
+    <h2 align="left">Tecnologias que quero dominar                 Tecnologias que domino</h2>
+    <h2 align="right"></h2>
     <img align="right" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
     <img align="right" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="right" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
