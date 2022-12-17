@@ -13,10 +13,10 @@
   </div> 
 <div align="left"> 
   <div style="display: inline-block">
-    <h2 align="right">Tecnologias que quero dominar</h1>
-    <img align="right" height="30" width="40" alt="python-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img align="right" height="30" width="40" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-    <img align="right" height="30" width="40" alt="typescript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <h2 align="left">Tecnologias que quero dominar</h1>
+    <img align="left" height="30" width="40" alt="python-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img align="left" height="30" width="40" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+    <img align="left" height="30" width="40" alt="typescript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
    </div>
   </div>
   
