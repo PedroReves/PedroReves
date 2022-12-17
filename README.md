@@ -6,14 +6,14 @@
 </div>
 <div align="left"> 
   <div style="display: inline-block">
-    <h2 align="left">Tecnologias que já domino</h1>
+    <h2 align="right">Tecnologias que já domino</h2> <h2 align="left">Tecnologias que quero dominar</h2>
     <img align="left" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="left" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="left" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div> 
 <div align="left"> 
   <div style="display: inline-block">
-    <h2 align="left">Tecnologias que quero dominar</h1>
+    
     <img align="left" height="30" width="40" alt="python-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img align="left" height="30" width="40" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img align="left" height="30" width="40" alt="typescript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
