@@ -6,7 +6,7 @@
 </div>
 <div align="right"> 
   <div style="display: inline-block">
-    <h2 align="right">Tecnologias que já domino         Tecnologias que quero dominar</h2>
+    <h2 align="center">Tecnologias que já domino         Tecnologias que quero dominar</h2>
     <h2 align="left"></h2>
  ##
     <img align="right" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
