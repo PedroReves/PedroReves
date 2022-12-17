@@ -6,7 +6,7 @@
 </div>
 <div  align="right"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="videocode.mp4">
+    <img align="left" height="250" alt="coding-time" src="videocode.gif">
     <h1 align="right">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
